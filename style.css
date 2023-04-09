@@ -46,7 +46,7 @@ nav{
 }
 
 nav > a{
-    color: blueviolet;
+    color: rgb(232, 231, 229);
     font-weight: 300;
     text-decoration: none;
     margin-right: 10px;
@@ -66,7 +66,7 @@ header .textos-header{
 }
 
 .titulo{
-    color: black (231, 19, 19);
+    color: rgb(213, 214, 190);
     font-size: 30px;
     text-align: center;
     margin-bottom: 50px;
@@ -79,7 +79,7 @@ header .textos-header{
 }
 
 .cards .card{
-    background-color: blue;
+    background-color: rgb(102, 108, 16);
     display: flex;
     width: 46%;
     height: 200px;
@@ -108,7 +108,7 @@ header .textos-header{
 }
 
 .about-me{
-    background-color: rgb(244, 248, 216);
+    background-color: rgb(160, 152, 85);
     padding-bottom: 30px;
 }
 
@@ -142,31 +142,31 @@ header .textos-header{
     overflow: hidden;
 }
 
-.Proyects{
-    background-color: rgb(173, 155, 22);
+.Projects{
+    background-color: rgb(84, 36, 21);
     padding-bottom: 30px;
     justify-content: left;
-    color: aliceblue;
+    color: rgb(57, 27, 10);
 
 }
 
-.proyect-cont{
+.project-cont{
     display: flex;
     justify-content: right;
     align-items: center;
-    color: antiquewhite;
+    color: rgb(247, 111, 62);
 }
-.proyect-ind{
+.project-ind{
     text-align: left;
 }
-.proyect-ind img{
+.project-ind img{
     width: 50%;
 }
 
-.proyect-ind h4{
+.project-ind h4{
     margin: 60px 0;
 }
-.proyect-ind p{
+.project-ind p{
     font-weight: 90  ;
     text-align: initial;
 }
