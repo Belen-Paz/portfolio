@@ -1,12 +1,17 @@
 body {
     background-color: rgb(169, 150, 99);
     font-family: 'open sans';
+
 }
 
 .contenedor-1{
-    grid-row: 50%;
+    display: grid;
+    grid-template-columns:30% auto;
+    margin: 0%;
+    font-family: 'Courier New';
     display: grid;
     background-color: aqua;
+    
 
 }
 
