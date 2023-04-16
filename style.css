@@ -1,6 +1,18 @@
 body {
     background-color: rgb(169, 150, 99);
     font-family: 'open sans';
+
+}
+
+.contenedor-1{
+    display: grid;
+    grid-template-columns:30% auto;
+    margin: 0%;
+    font-family: 'Courier New';
+    display: grid;
+    background-color: aqua;
+    
+
 }
 
 .contenedor{
@@ -18,6 +30,7 @@ body {
     padding: 0 10px 0 0;
     font-family: open sans-serif,cursive;
     font-size: 20px;
+    display: grid;   
 }
 
 .text-phrase{
